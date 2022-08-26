@@ -1,0 +1,149 @@
+*
+{
+    padding: 5px;
+}
+.start
+{
+    width:300px;
+    height: 200px;
+    
+    
+}
+#icon
+{
+    background-color:whitesmoke;
+    padding: 5px;
+    font-size: larger;
+}
+
+.vmagazine-container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+html, body {
+    font-family: "Helvetica","Arial",sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+html {
+    color: rgba(0,0,0,.87);
+}
+::selection {
+    background-color: #6ab344;
+    color: #fff;
+}
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+.about-section {
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    background-color: #ffffff;
+}
+.mdl-typography--text-justify {
+    text-align: justify;
+}
+footer
+{
+    color:white;
+    font-size: larger;
+}
+
+div {
+    display: block;
+}
+event-section {
+    position: relative;
+    height: auto;
+    width: auto;
+    background: #009688;
+    background: -webkit-linear-gradient(-90deg, #009688, #263238);
+    background: -o-linear-gradient(-90deg, #009688, #263238);
+    background: -moz-linear-gradient(-90deg, #009688, #263238);
+    background: linear-gradient(-90deg, #009688, #263238);
+    background-size: cover;
+}
+.mdl-typography--text-center {
+    text-align: center;
+}
+
+div {
+    display: block;
+}
+.event-grid {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+
+.mdl-grid {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    margin: 0 auto;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+}
+
+div {
+    display: block;
+}
+.mdl-typography--text-center {
+    text-align: center;
+   
+   
+}
+.mdl-cell {
+    box-sizing: border-box;
+}
+.event-title 
+{
+background-color: #263238;
+color: #fff;
+}
+.mdl-layout__content {
+    -ms-flex: 0 1 auto;
+    position: relative;
+    display: inline-block;
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    z-index: 1;
+    -webkit-overflow-scrolling: touch;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+html, body {
+    font-family: "Helvetica","Arial",sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+#teams
+{
+    background-color: blue;
+    text-align: center;
+}
+.auv
+{
+    width:30%; 
+   
+}
+.humanoid
+{
+    width:30%;
+    float:left;
+}
